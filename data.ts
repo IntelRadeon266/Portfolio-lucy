@@ -154,7 +154,7 @@ export const projects: IProject[] = [
     name: "Food Sale app",
     description:
       "a responsive organic food webpage showcasing different varieties of healthy organic food available",
-    category: ["vuejs"],
+    category: ["vuejs","Tailwindcss","typescript"],
     image_path: "/images/organo.jpg",
     github_url: "https://github.com/Adiel-Thairu/organic-landing-page-in-tailwindcss",
     deployed_url: "https://organiclandingpage.netlify.app",
@@ -165,7 +165,7 @@ export const projects: IProject[] = [
     name: "Hardware Online System",
     description:
       "A full-stack Online hardware system integrated with paypal options and add to cart functionality",
-    category: ["python"],
+    category: ["python", "javascript"],
     image_path: "/images/Screenshot (451).png",
     github_url: "#",
     

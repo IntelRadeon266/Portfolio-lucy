@@ -23,12 +23,14 @@ const ProjectsNavBar: React.FC<{
       {[
         "all",
         "react",
-        "react native",
-        "flutter",
+        "wordpress",
         "node",
         "loopback",
         "typescript",
         "nextjs",
+        "vuejs",
+        "python",
+        "adobeXD"
       ]?.map((value) => (
         <NavItem
           // @ts-ignore
