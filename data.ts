@@ -122,9 +122,9 @@ export const projects: IProject[] = [
     description:
       "This web app show statistics and progress of commercial businesses to the intended reach, showcasing their services and about",
     category: ["Tailwindcss"],
-    image_path: "/images/boostrapcss,jpg",
-    github_url: "https://github.com/DevXanderCode/covid-19-tracker",
-    deployed_url: "https://devxandercode.github.io/covid-19-tracker/",
+    image_path: "/images/boostrapcss.jpg",
+    github_url: "https://github.com/Adiel-Thairu/steffoverflow-website-in-tailwindcss",
+    deployed_url: "https://subtle-blancmange-75eeeb.netlify.app",
     key_techs: ["Tailwindcss", "javascript", "Html"],
   },
   {
@@ -166,7 +166,7 @@ export const projects: IProject[] = [
     description:
       "A full-stack Online hardware system integrated with paypal options and add to cart functionality",
     category: ["python"],
-    image_path: "/images/screenshot(451).png",
+    image_path: "/images/Screenshot (451).png",
     github_url: "#",
     
     key_techs: ["Javascript", "Python"],
