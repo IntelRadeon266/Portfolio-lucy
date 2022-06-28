@@ -122,7 +122,7 @@ export const projects: IProject[] = [
     description:
       "This web app show statistics and progress of commercial businesses to the intended reach, showcasing their services and about",
     category: ["Tailwindcss"],
-    image_path: "/images/boostrapcss.jpg",
+    image_path: "/images/bootstrapcss.jpg",
     github_url: "https://github.com/Adiel-Thairu/steffoverflow-website-in-tailwindcss",
     deployed_url: "https://subtle-blancmange-75eeeb.netlify.app",
     key_techs: ["Tailwindcss", "javascript", "Html"],
