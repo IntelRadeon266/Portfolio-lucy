@@ -58,7 +58,7 @@ const Sidebar: React.FC = () => {
         >
           <AiFillGithub className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="https://twitter.com/adielkish" target="__blank">
+        <a href="https://twitter.com/adielthairu" target="__blank">
           <AiFillTwitterCircle
             className="w-8 h-8 cursor-pointer"
             aria-label="twitter"
