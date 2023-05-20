@@ -13,11 +13,11 @@ export default function Document() {
 
         <meta
           name="description"
-          content="Flutter Developer, Software developer, React Native developer,FULL Developer,Freelancer"
+          content="Hospitality and Toursim Management"
         />
         <meta
           name="keywords"
-          content="Flutter Developer, Software developer, React Native developer, FULL stack developer"
+          content="Hospitality and Toursim Management"
         />
       </Head>
       <body className="bg-blue-400 bg-gradient-to-r from-green to-blue-400 dark:from-dark-500 dark:to-dark-700 dark:text-white">
