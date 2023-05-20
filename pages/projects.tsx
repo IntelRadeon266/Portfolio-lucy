@@ -34,7 +34,7 @@ const Projects: NextPage = () => {
       exit="exit"
     >
       <Head>
-        <title>Web | Software Developer| portfolio</title>
+        <title>Web | Hospitality and Toursim Management| portfolio</title>
       </Head>
       <ProjectsNavBar
         handleFilterHandler={handleFilterHandler}
