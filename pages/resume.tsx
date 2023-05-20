@@ -15,19 +15,31 @@ const Resume: NextPage = () => {
       exit="exit"
     >
       <Head>
-        <title>Web | Software Developer| portfolio</title>
+        <title>Web | Tourism Management| portfolio</title>
       </Head>
       {/* Education and Experience */}
       <div className="grid gap-6 md:grid-cols-2">
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-2 text-2xl font-bold ">Education</h5>
           <div>
-            <h5 className="my-1 text-xl font-bold">Software Development</h5>
+            <h5 className="my-1 text-xl font-bold">Hospitality and Tourism Management</h5>
             <p className="font-semibold">
-              KCA University (2020 - 2022)
+              Zetech University (2020 - 2022)
             </p>
 
-            <h5 className="my-1 text-xl font-bold">Diploma In IT</h5>
+            <h5 className="my-1 text-xl font-bold">Certificate in Hospitality and Toursim Management</h5>
+            <p className="font-semibold">
+              KCA University (2018 - 2020)
+            </p>
+
+          </div>
+          <div>
+            <h5 className="my-1 text-xl font-bold">Diploma in Hospitality and Tourism Management</h5>
+            <p className="font-semibold">
+              Mount Kenya University (2020 - 2022)
+            </p>
+
+            <h5 className="my-1 text-xl font-bold">Degree in Hospitality and Toursim Management</h5>
             <p className="font-semibold">
               KCA University (2018 - 2020)
             </p>
