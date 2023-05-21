@@ -22,18 +22,11 @@ const Resume: NextPage = () => {
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-2 text-2xl font-bold ">Education</h5>
           <div>
-            <h5 className="my-1 text-xl font-bold">Hospitality and Tourism Management</h5>
-            <p className="font-semibold">
-              Zetech University (2020 - 2022)
-            </p>
-
             <h5 className="my-1 text-xl font-bold"> Bachelor of Science in Travel and Tourism Management</h5>
             <p className="font-semibold">
               2019-2022 (MOUNT KENYA UNIVERSITY)
             </p>
-
-          </div>
-          <div>
+            
             <h5 className="my-1 text-xl font-bold"> Diploma in Tourism Management</h5>
             <p className="font-semibold">
               2017-2018 (ZETECH UNIVERSITY)
