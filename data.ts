@@ -35,7 +35,7 @@ export const services: IService[] = [
     id: 4,
     title: "Invoicing tickets",
     about:
-      "Collect deposits and balances <b>Node js</b>, <b>Expressjs</b> and <b>Nextjs</b>",
+      "Collect deposits and balances <b>/b>",
     Icon: AiOutlineApi,
   },
   {
