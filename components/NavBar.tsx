@@ -45,12 +45,7 @@ const NavBar: React.FC = () => {
           route="/"
           activeItem={activeItem}
         />
-        <!--NavItem
-          setActiveItem={setActiveItem}
-          name="Projects"
-          route="/projects"
-          activeItem={activeItem}
-        /-->
+        
         <NavItem
           setActiveItem={setActiveItem}
           name="Resume"
