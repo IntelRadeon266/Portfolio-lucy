@@ -30,7 +30,7 @@ const NavBar: React.FC = () => {
   useEffect(() => {
     if (pathname === "/") setActiveItem("About");
     if (pathname === "/resume") setActiveItem("Resume");
-    if (pathname === "/projects") setActiveItem("Projects");
+    <!--if (pathname === "/projects") setActiveItem("Projects");-->
   }, [pathname]);
 
   return (
@@ -45,12 +45,12 @@ const NavBar: React.FC = () => {
           route="/"
           activeItem={activeItem}
         />
-        <NavItem
+        <!--NavItem
           setActiveItem={setActiveItem}
           name="Projects"
           route="/projects"
           activeItem={activeItem}
-        />
+        /-->
         <NavItem
           setActiveItem={setActiveItem}
           name="Resume"
