@@ -76,7 +76,7 @@ export const languages: ISkill[] = [
   },
   {
     name: "Proficiency in English",
-    level: "100%,
+    level: "100%",
     Icon: BsCircleFill,
   },
   {
