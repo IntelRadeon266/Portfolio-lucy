@@ -44,7 +44,7 @@ const Resume: NextPage = () => {
           <div>
             <h5 className="my-1 text-xl font-bold">Internship</h5>
             <p className="font-semibold">ATTACHEE, Ministry of Tourism(August 2022- December 2022)</p>
-            <h5 className="my-1 text-xl font-bold">Attache'</h5>
+            <h5 className="my-1 text-xl font-bold">Attache</h5>
             <p className="font-semibold">Jambo Travel House Limited(May 2018- August 2018)</p>
             <h5 className="my-1 text-xl font-bold">Data Entry</h5>
             <p className="font-semibold">
