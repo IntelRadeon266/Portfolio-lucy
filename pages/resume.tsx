@@ -27,21 +27,21 @@ const Resume: NextPage = () => {
               Zetech University (2020 - 2022)
             </p>
 
-            <h5 className="my-1 text-xl font-bold">Certificate in Hospitality and Toursim Management</h5>
+            <h5 className="my-1 text-xl font-bold"> Bachelor of Science in Travel and Tourism Management</h5>
             <p className="font-semibold">
-              KCA University (2018 - 2020)
+              2019-2022 (MOUNT KENYA UNIVERSITY)
             </p>
 
           </div>
           <div>
-            <h5 className="my-1 text-xl font-bold">Diploma in Hospitality and Tourism Management</h5>
+            <h5 className="my-1 text-xl font-bold"> Diploma in Tourism Management</h5>
             <p className="font-semibold">
-              Mount Kenya University (2020 - 2022)
+              2017-2018 (ZETECH UNIVERSITY)
             </p>
 
-            <h5 className="my-1 text-xl font-bold">Degree in Hospitality and Toursim Management</h5>
+            <h5 className="my-1 text-xl font-bold">Certificate in Hospitality and Tourism Management </h5>
             <p className="font-semibold">
-              KCA University (2018 - 2020)
+              2016-2017 (ZETECH UNIVERSITY)
             </p>
 
           </div>
