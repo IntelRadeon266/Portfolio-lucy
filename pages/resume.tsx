@@ -42,8 +42,10 @@ const Resume: NextPage = () => {
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-2 text-2xl font-bold ">Experience</h5>
           <div>
-            <h5 className="my-1 text-xl font-bold">Attache`</h5>
-            <p className="font-semibold">Netpap Global Limited (2022 - present)</p>
+            <h5 className="my-1 text-xl font-bold">Internship</h5>
+            <p className="font-semibold">ATTACHEE, Ministry of Tourism(August 2022- December 2022)</p>
+            <h5 className="my-1 text-xl font-bold">Attache'</h5>
+            <p className="font-semibold">Jambo Travel House Limited(May 2018- August 2018)</p>
             <h5 className="my-1 text-xl font-bold">Data Entry</h5>
             <p className="font-semibold">
               Africa Vocation Education Researchers and Consultants [AVERC] (Jan 2020 - March 2020)
