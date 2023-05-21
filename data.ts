@@ -80,22 +80,22 @@ export const languages: ISkill[] = [
     Icon: BsCircleFill,
   },
   {
-    name: "Ability to Persuade
+    name: "Ability to Persuade",
     level: "90%",
     Icon: BsCircleFill,
   },
   {
-    name: "Ability to Present
+    name: "Ability to Present",
     level: "100%",
     Icon: BsCircleFill,
   },
   {
-    name: "Well Versed in various areas of travel
+    name: "Well Versed in various areas of travel",
     level: "90%",
     Icon: BsCircleFill,
   },
   {
-    name: "Ability to handle crisis
+    name: "Ability to handle crisis",
     level: "100%",
     Icon: BsCircleFill,
   },
