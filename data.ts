@@ -12,96 +12,91 @@ import { IService, ISkill, IProject } from "./types";
 export const services: IService[] = [
   {
     id: 1,
-    title: "Frontend Web Development",
+    title: "Handling bookings of client",
     about:
-      "I build beautiful and scalable SPA using <b>HTML</b>, <b>CSS</b>, <b>React js</b> and <b>Nextjs</b>",
+      "Handle and Organize travels from beginning to end. <b>HTML</b>, <b>CSS</b>, <b>React js</b> and <b>Nextjs</b>",
     Icon: RiComputerLine,
   },
   {
     id: 2,
-    title: "Backend Development",
+    title: "Putting holiday packages together",
     about:
-      "Handle database, server, api using <b>Node js</b> and <b>Expressjs</b> and <b>Nestjs</b>",
+      "Diagnose the clients' specifications and wishes and suggest suitable packages<b>Node js</b> and <b>Expressjs</b> and <b>Nestjs</b>",
     Icon: FaServer,
   },
   {
     id: 3,
-    title: "Frontend Mobile Development",
+    title: "Picking up clients at airports",
     about:
-      "I build beautiful and scalable cross platform (hybrid) mobile applications, using either <b>React Native</b> or <b>Flutter</b>",
+      "Research various destinations and means of travel (hybrid) mobile applications, using either <b>React Native</b> or <b>Flutter</b>",
     Icon: AiOutlineMobile,
   },
   {
     id: 4,
-    title: "API Development",
+    title: "Invoicing tickets",
     about:
-      "I develop robust REST and GraphQL APIs with <b>Node js</b>, <b>Expressjs</b> and <b>Nextjs</b>",
+      "Collect deposits and balances <b>Node js</b>, <b>Expressjs</b> and <b>Nextjs</b>",
     Icon: AiOutlineApi,
   },
   {
     id: 5,
-    title: "Competitive Coder",
-    about: "A daily problem solver in <b>Leet Code</b> and <b>Github</b>",
+    title: "Competitive Consultant",
+    about: "Use promotional techniques <b>and materials</b>to sell itinerary packages <b>Github</b>",
     Icon: MdDeveloperMode,
   },
   {
     id: 6,
     title: "Product Development",
     about:
-      "Hack around user experience to deliver the bast <b>customer</b> journey for your users",
+      "Hack around user experience to deliver the best <b>customer</b> journey for your users",
     Icon: AiOutlineAntDesign,
   },
 ];
 
 export const languages: ISkill[] = [
   {
-    name: "JavaScript",
+    name: "Teamwork",
     level: "100%",
     Icon: BsCircleFill,
   },
   {
-    name: "React",
+    name: "Presentation",
     level: "90%",
     Icon: BsCircleFill,
   },
   {
-    name: "React Native",
-    level: "80%",
+    name: "Communication",
+    level: "100%",
     Icon: BsCircleFill,
   },
   {
-    name: "TailwindCss",
-    level: "65%",
+    name: "Interpersonal skills",
+    level: "100%",
     Icon: BsCircleFill,
   },
   {
-    name: "Flutter",
-    level: "30%",
+    name: "Proficiency in English",
+    level: "100%,
     Icon: BsCircleFill,
   },
   {
-    name: "Python",
+    name: "Ability to Persuade
     level: "90%",
     Icon: BsCircleFill,
   },
   {
-    name: "TypeScript",
-    level: "80%",
+    name: "Ability to Present
+    level: "100%",
     Icon: BsCircleFill,
   },
   {
-    name: "Nodejs",
-    level: "70%",
+    name: "Well Versed in various areas of travel
+    level: "90%",
     Icon: BsCircleFill,
   },
   {
-    name: "Express js",
-    level: "70%",
-    Icon: BsCircleFill,
-  },
-  {
-    name: "Nest js",
-    level: "70%",
+    name: "Ability to handle crisis
+    level: "100%",
     Icon: BsCircleFill,
   },
 ];
