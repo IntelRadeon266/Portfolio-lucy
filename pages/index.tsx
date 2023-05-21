@@ -15,7 +15,7 @@ const index: NextPage = () => {
       exit="exit"
     >
       <Head>
-        <title>Web | Hospitality Management| portfolio</title>
+        <title>Web | Lucy Thairu| portfolio</title>
       </Head>
       <h5 className="my-3 font-medium">
         A Full stack web and Software Developer, seeking adventure and an
