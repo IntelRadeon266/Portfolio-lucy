@@ -102,12 +102,12 @@ export const languages: ISkill[] = [
 ];
 
 export const tools: ISkill[] = [
-  { name: "Sales", level: "80%", Icon: BsCircleFill },
-  { name: "Click Up", level: "80%", Icon: BsCircleFill },
-  { name: "Zoom", level: "90%", Icon: BsCircleFill },
+  { name: "Sales", level: "98%", Icon: BsCircleFill },
+  { name: "Click Up", level: "99%", Icon: BsCircleFill },
+  { name: "Zoom", level: "97%", Icon: BsCircleFill },
   { name: "Google Meet", level: "99%", Icon: BsCircleFill },
-  { name: "Skype Video", level: "45%", Icon: BsCircleFill },
-  { name: "Social Media", level: "90%", Icon: BsCircleFill },
+  { name: "Skype Video", level: "95%", Icon: BsCircleFill },
+  { name: "Social Media", level: "95%", Icon: BsCircleFill },
 ];
 
 export const projects: IProject[] = [
