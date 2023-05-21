@@ -15,12 +15,12 @@ const index: NextPage = () => {
       exit="exit"
     >
       <Head>
-        <title>Web | Lucy ThairU| portfolio</title>
+        <title>Web | Lucy Thairu| portfolio</title>
       </Head>
-      <h5 className="my-3 font-medium">
-        A Full stack web and Software Developer, seeking adventure and an
-        opportunity to make impact. A Fast learner and creative developer who
-        loves what he does and is easy to work with. 
+      <h5 className="my-3 font-medium"> 
+        Posses problem solving abilities, team oriented and being able to work well in a collaborative environment.
+        Being able to learn new information quickly to maximize contributions and respond to the customers preference and managerial preference.
+        Proficient in flexibility and adaptation and willing to further my experience and excel in the field of travel and tourism to meet the organizational objectives
       </h5>
       <motion.div
         variants={stagger}
