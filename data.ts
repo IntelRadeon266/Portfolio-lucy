@@ -14,41 +14,41 @@ export const services: IService[] = [
     id: 1,
     title: "Handling bookings of client",
     about:
-      "Handle and Organize travels from beginning to end. <b>HTML</b>, <b>CSS</b>, <b>React js</b> and <b>Nextjs</b>",
+      "Handle and Organize travels from beginning to end. <b></b>",
     Icon: RiComputerLine,
   },
   {
     id: 2,
     title: "Putting holiday packages together",
     about:
-      "Diagnose the clients' specifications and wishes and suggest suitable packages<b>Node js</b> and <b>Expressjs</b> and <b>Nestjs</b>",
+      "Diagnose the clients' specifications and wishes and suggest suitable packages<b></b>",
     Icon: FaServer,
   },
   {
     id: 3,
     title: "Picking up clients at airports",
     about:
-      "Research various destinations and means of travel (hybrid) mobile applications, using either <b>React Native</b> or <b>Flutter</b>",
+      "Research various destinations and means of travel (hybrid) mobile applications, using either <b></b> or <b>Flutter</b>",
     Icon: AiOutlineMobile,
   },
   {
     id: 4,
     title: "Invoicing tickets",
     about:
-      "Collect deposits and balances <b>/b>",
+      "Collect deposits and balances <b></b>",
     Icon: AiOutlineApi,
   },
   {
     id: 5,
     title: "Competitive Consultant",
-    about: "Use promotional techniques <b>and materials</b>to sell itinerary packages <b>Github</b>",
+    about: "Use promotional techniques <b>and materials</b>to sell itinerary packages <b></b>",
     Icon: MdDeveloperMode,
   },
   {
     id: 6,
     title: "Product Development",
     about:
-      "Hack around user experience to deliver the best <b>customer</b> journey for your users",
+      "Hack around user experience to deliver the best <b>customer</b> journey for our users",
     Icon: AiOutlineAntDesign,
   },
 ];
