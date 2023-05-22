@@ -36,8 +36,8 @@ const Sidebar: React.FC = () => {
       </p>
       <a
         className="flex items-center justify-center px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200"
-        href="/assets/CV LUCY THAIRU.docx"
-        download="CV LUCY THAIRU.docx"
+        href="/assets/LUCY WAIRIMU CV.pdf"
+        download="LUCY WAIRIMU CV.pdf"
       >
         <GiTie className="w-6 h-6" /> Download Resume
       </a>
@@ -45,19 +45,13 @@ const Sidebar: React.FC = () => {
       {/* Social icons */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full">
         <a
-          href="https://www.linkedin.com/in/adiel-thairu-37a26117b"
+          href=""
           target="__blank"
           aria-label="LinkedIn"
         >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
-        <a
-          href="https://github.com/Adiel-Thairu"
-          target="__blank"
-          aria-label="GitHub"
-        >
-          <AiFillGithub className="w-8 h-8 cursor-pointer" />
-        </a>
+  
         <a href="https://twitter.com/adielthairu" target="__blank">
           <AiFillTwitterCircle
             className="w-8 h-8 cursor-pointer"
