@@ -28,7 +28,7 @@ export const services: IService[] = [
     id: 3,
     title: "Picking up clients at airports",
     about:
-      "Research various destinations and means of travel (hybrid) mobile applications, using either <b></b> or <b>Flutter</b>",
+      "Research various destinations and means of travel (hybrid) mobile applications. <b></b>",
     Icon: AiOutlineMobile,
   },
   {
