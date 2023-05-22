@@ -51,13 +51,6 @@ const Sidebar: React.FC = () => {
         >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
-  
-        <a href="https://twitter.com/adielthairu" target="__blank">
-          <AiFillTwitterCircle
-            className="w-8 h-8 cursor-pointer"
-            aria-label="twitter"
-          />
-        </a>
       </div>
       {/* Address */}
       <div className="py-4 my-5 -mx-4 bg-gray-200 dark:bg-dark-200">
